@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Sample API for todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malaiappan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.0.7",
+    "restify": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malaiappan/todo-api"
+  }
+}
